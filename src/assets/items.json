@@ -1,0 +1,116 @@
+{
+  "detail": [
+    {
+      "jam": "03:15",
+      "tanggal": "18 Januari 2023",
+      "nama": "Ayam Tangkap",
+      "pengeluaran": 77249,
+      "id": 1
+    },
+    {
+      "jam": "05:15",
+      "tanggal": "18 Januari 2023",
+      "nama": "Ayam Geprek",
+      "pengeluaran": 5355,
+      "id": 2
+    },
+    {
+      "jam": "06:15",
+      "tanggal": "18 Januari 2023",
+      "nama": "Ayam Bakar",
+      "pengeluaran": 10263,
+      "id": 3
+    },
+    {
+      "jam": "03:15",
+      "tanggal": "20 Februari 2023",
+      "nama": "Ikan Tangkap",
+      "pengeluaran": 77249,
+      "id": 4
+    },
+    {
+      "jam": "17:00",
+      "tanggal": "20 Februari 2023",
+      "nama": "Ikan Geprek",
+      "pengeluaran": 15000,
+      "id": 5
+    },
+    {
+      "jam": "17:30",
+      "tanggal": "20 Februari 2023",
+      "nama": "Ikan Bakar",
+      "pengeluaran": 77249,
+      "id": 6
+    },
+    {
+      "jam": "00:15",
+      "tanggal": "20 Maret 2023",
+      "nama": "Bebek Tangkap",
+      "pengeluaran": 77249,
+      "id": 7
+    },
+    {
+      "jam": "18:00",
+      "tanggal": "20 Maret 2023",
+      "nama": "Bebek Geprek",
+      "pengeluaran": 15000,
+      "id": 8
+    },
+    {
+      "jam": "19:30",
+      "tanggal": "20 Maret 2023",
+      "nama": "Bebek Bakar",
+      "pengeluaran": 77249,
+      "id": 9
+    },
+    {
+      "jam": "00:16",
+      "tanggal": "24 April 2023",
+      "nama": "Sapi Tangkap",
+      "pengeluaran": 77249,
+      "id": 10
+    },
+    {
+      "jam": "17:00",
+      "tanggal": "24 April 2023",
+      "nama": "Sapi Geprek",
+      "pengeluaran": 25000,
+      "id": 11
+    },
+    {
+      "jam": "20:30",
+      "tanggal": "24 April 2023",
+      "nama": "Sapi Bakar",
+      "pengeluaran": 127249,
+      "id": 12
+    },
+    {
+      "jam": "20:12",
+      "tanggal": "24 Agustus 2023",
+      "nama": "Cumi Tangkap",
+      "pengeluaran": 30000,
+      "id": 13
+    },
+    {
+      "jam": "20:12",
+      "tanggal": "24 Agustus 2023",
+      "nama": "Cumi Geprek",
+      "pengeluaran": 50000,
+      "id": 14
+    },
+    {
+      "jam": "20:12",
+      "tanggal": "24 Agustus 2023",
+      "nama": "Cumi Bakar",
+      "pengeluaran": 25000,
+      "id": 15
+    },
+    {
+      "jam": "20:20",
+      "tanggal": "24 Agustus 2023",
+      "nama": "Cumi Asam Manis",
+      "pengeluaran": 90000,
+      "id": 16
+    }
+  ]
+}
