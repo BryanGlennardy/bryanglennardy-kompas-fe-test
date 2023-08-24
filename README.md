@@ -1,3 +1,4 @@
-# Bryan Glennardy Kompas Front End Developer Technical Test
+# Bryan Glennardy 
+## Kompas Front End Developer Technical Test
 
 
